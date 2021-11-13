@@ -1,0 +1,36 @@
+body {
+    color: rgb(128, 19, 0);
+    height: 85vh;
+    width: 90vw;
+    text-align: center;
+    justify-content: center;
+    background-image: radial-gradient(white,  rgb(0, 255, 179), rgb(189, 127, 98), rgb(128, 19, 0));
+}
+h1 {
+    font-size: 5.5vw
+}
+#container {
+    text-align: center;
+    margin-left: 11vw;
+    margin-top: 15vh;
+    padding: 5vw;
+    border: 2px solid rgb(128, 19, 0);
+    border-radius: 50%;
+    width: 65vw;
+    height: 50vh;
+}
+input {
+    width: 50vw;
+    text-align: center;
+    margin-right: 2vw;
+}
+button {
+    border-radius: 10%;
+    padding: 1vh;
+    background-color:rgb(189, 127, 98);
+    color: rgb(128, 19, 0);
+    box-shadow: 2px 2px rgb(128, 19, 0);
+}
+h2 {
+    font-size: 3.5vw;
+}
